@@ -2,16 +2,16 @@
   {
     "id": "1",
     "type": "image",
-    "url": "https://raw.githubusercontent.com/maximilianlorenzmetzinger-source/silodom/refs/heads/main/scuraMai.jpg",
+    "url": "https://raw.githubusercontent.com/maximilianlorenzmetzinger-source/silodom/refs/heads/main/scuraMai.jpg"
   },
   {
     "id": "2",
     "type": "video",
-    "url": "https://github.com/maximilianlorenzmetzinger-source/silodom/raw/refs/heads/main/c1d21d674a0ef9aa203f36e5bf781781_720w.mp4",
+    "url": "https://github.com/maximilianlorenzmetzinger-source/silodom/raw/refs/heads/main/c1d21d674a0ef9aa203f36e5bf781781_720w.mp4"
   },
   {
     "id": "3",
     "type": "image",
-    "url": "https://images.pexels.com/photos/27049612/pexels-photo-27049612.jpeg",
+    "url": "https://images.pexels.com/photos/27049612/pexels-photo-27049612.jpeg"
   }
 ]
