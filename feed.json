@@ -2,7 +2,10 @@
   {
     "id": "1",
     "type": "image",
-    "url": "https://raw.githubusercontent.com/maximilianlorenzmetzinger-source/silodom/refs/heads/main/scuraMai.jpg"
+    "url": "https://raw.githubusercontent.com/maximilianlorenzmetzinger-source/silodom/refs/heads/main/scuraMai.jpg""event_name": "SILODOM",
+    "caption": "Kurzbeschreibung",
+    "date": "21.06.2025",
+    "description": "Hier kommt deine lange Beschreibung rein. Infos zur Veranstaltung, Lineup, Einlass etc."
   },
   {
     "id": "2",
