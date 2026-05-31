@@ -3,9 +3,6 @@
     "id": "1",
     "type": "image",
     "url": "https://raw.githubusercontent.com/maximilianlorenzmetzinger-source/silodom/refs/heads/main/scuraMai.jpg",
-    "event_name": "SILODOM",
-    "caption": "Kurzbeschreibung",
-    "date": "21.06.2025",
     "description": "Hier kommt deine lange Beschreibung rein. Infos zur Veranstaltung, Lineup, Einlass etc."
   },
   {
@@ -15,7 +12,7 @@
   },
   {
     "id": "3",
-    "type": "image",
-    "url": "https://images.pexels.com/photos/27049612/pexels-photo-27049612.jpeg"
+    "type": "video",
+    "url": "https://drive.google.com/file/d/1u6f8ja9-d9WnjVVFdCHvw0TwuCSq02Fe/view?usp=drive_link"
   }
 ]
