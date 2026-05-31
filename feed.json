@@ -3,24 +3,15 @@
     "id": "1",
     "type": "image",
     "url": "https://raw.githubusercontent.com/maximilianlorenzmetzinger-source/silodom/refs/heads/main/scuraMai.jpg",
-    "event_name": "SILODOM",
-    "caption": "Nächste Veranstaltung – Samstag 23:00",
-    "date": "21.06.2025"
   },
   {
     "id": "2",
     "type": "video",
     "url": "https://github.com/maximilianlorenzmetzinger-source/silodom/raw/refs/heads/main/c1d21d674a0ef9aa203f36e5bf781781_720w.mp4",
-    "event_name": "DARK MATTER",
-    "caption": "Aftermovie – letzter Abend",
-    "date": "14.06.2025"
   },
   {
     "id": "3",
     "type": "image",
-    "url": "https://dein-server.de/bilder/event2.jpg",
-    "event_name": "BASS KONSTRUKT",
-    "caption": "Underground – Raum 2",
-    "date": "07.06.2025"
+    "url": "https://images.pexels.com/photos/27049612/pexels-photo-27049612.jpeg",
   }
 ]
