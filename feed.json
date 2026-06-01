@@ -1,18 +1,59 @@
 [
   {
     "id": "1",
-    "type": "video",
-    "url": "https://res.cloudinary.com/da5bixsel/video/upload/q_auto/f_auto/v1780258887/scurawerbungmai_nhhqtk.mp4",
-    "description": "Indoor & Outdoor all night long\n■■■■■■■■■■■■■■■■■■■\nLINEUP\n✚ Abscure\n✚ Alex Connors\n✚ Hardy Heller\n✚ Kyng Elly\n✚ Lea Lindner\n✚ Rallo\n✚ STU\n■■■■■■■■■■■■■■■■■■■\n––––\n❗️NO HATE ❗️\n❗️NO RACISM ❗️\n❗️NO VIOLENCE ❗️\n❗️NO DISCRIMINATION ❗️\n––––\n✌️ Peace, Love & Osthafen.\n🕊 Freiheit & Frieden für alle Völker."
+    "event_name": "SILODOM",
+    "description": "Indoor & Outdoor all night long\n■■■■■■■■■■■■■■■■■■■\nLINEUP\n✚ Abscure\n✚ Alex Connors\n✚ Hardy Heller\n✚ Kyng Elly\n✚ Lea Lindner\n✚ Rallo\n✚ STU\n■■■■■■■■■■■■■■■■■■■\n––––\n❗️NO HATE ❗️\n❗️NO RACISM ❗️\n❗️NO VIOLENCE ❗️\n❗️NO DISCRIMINATION ❗️\n––––\n✌️ Peace, Love & Osthafen.\n🕊 Freiheit & Frieden für alle Völker.",
+    "slides": [
+      {
+        "type": "video",
+        "url": "https://res.cloudinary.com/da5bixsel/video/upload/q_auto/f_auto/v1780258887/scurawerbungmai_nhhqtk.mp4"
+      }
+    ]
   },
   {
     "id": "2",
-    "type": "video",
-    "url": "https://res.cloudinary.com/da5bixsel/video/upload/q_auto/f_auto/v1780258897/FinalFinalAdZerrroVeranstaltung_haaode.mp4"
+    "event_name": "SILODOM",
+    "slides": [
+      {
+        "type": "video",
+        "url": "https://res.cloudinary.com/da5bixsel/video/upload/q_auto/f_auto/v1780258897/FinalFinalAdZerrroVeranstaltung_haaode.mp4"
+      }
+    ]
   },
   {
     "id": "3",
-    "type": "video",
-    "url": "https://res.cloudinary.com/da5bixsel/video/upload/q_auto/f_auto/v1780258883/DnBVeranstlatung_siwqln.mp4"
+    "event_name": "SILODOM",
+    "slides": [
+      {
+        "type": "video",
+        "url": "https://res.cloudinary.com/da5bixsel/video/upload/q_auto/f_auto/v1780258883/DnBVeranstlatung_siwqln.mp4"
+      }
+    ]
+  },
+  {
+    "id": "4",
+    "event_name": "SILODOM",
+    "slides": [
+      {
+        "type": "image",
+        "url": "https://res.cloudinary.com/da5bixsel/image/upload/q_auto/f_auto/v1780308193/IMG_1970_qmp8p0.jpg"
+      },
+      {
+        "type": "image",
+        "url": "https://res.cloudinary.com/da5bixsel/image/upload/q_auto/f_auto/v1780308191/IMG_1972_kismx4.jpg"
+      },
+      {
+        "type": "image",
+        "url": "https://res.cloudinary.com/da5bixsel/image/upload/q_auto/f_auto/v1780308191/IMG_1971_xvkyme.jpg"
+      },
+      {
+        "type": "image",
+        "url": "https://res.cloudinary.com/da5bixsel/image/upload/q_auto/f_auto/v1780308191/IMG_1974_b9rnzq.jpg"
+      },
+      {
+        "type": "image",
+        "url": "https://res.cloudinary.com/da5bixsel/image/upload/q_auto/f_auto/v1780308189/IMG_1975_ac5uaz.jpg"
+      }
+    ]
   }
 ]
