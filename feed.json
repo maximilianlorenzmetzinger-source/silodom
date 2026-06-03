@@ -1,58 +1,76 @@
 [
   {
     "id": "1",
-    "event_name": "SILODOM",
-    "description": "Indoor & Outdoor all night long\n■■■■■■■■■■■■■■■■■■■\nLINEUP\n✚ Abscure\n✚ Alex Connors\n✚ Hardy Heller\n✚ Kyng Elly\n✚ Lea Lindner\n✚ Rallo\n✚ STU\n■■■■■■■■■■■■■■■■■■■\n––––\n❗️NO HATE ❗️\n❗️NO RACISM ❗️\n❗️NO VIOLENCE ❗️\n❗️NO DISCRIMINATION ❗️\n––––\n✌️ Peace, Love & Osthafen.\n🕊 Freiheit & Frieden für alle Völker.",
+    "event_name": "JUNI ÜBERSICHT",
+    "description": "YOUR JUNE AT SILODOM\nwe wish you a great summer.",
     "slides": [
       {
         "type": "video",
-        "url": "https://res.cloudinary.com/da5bixsel/video/upload/q_auto/f_auto/w_720/v1780258887/scurawerbungmai_nhhqtk.mp4"
+        "url": "https://res.cloudinary.com/da5bixsel/video/upload/q_auto/f_auto/w_720/v1780478042/YOUR_JUNE_AT_SILODOMwe_wish_you_a_great_summer._njc80a.mp4"
+      },
+      {
+        "type": "image",
+        "url": "https://res.cloudinary.com/da5bixsel/image/upload/q_auto/f_auto/v1780478041/YOUR_JUNE_AT_SILODOMwe_wish_you_a_great_summer._ywfbzz.jpg"
+      },
+      {
+        "type": "image",
+        "url": "https://res.cloudinary.com/da5bixsel/image/upload/q_auto/f_auto/v1780478040/YOUR_JUNE_AT_SILODOMwe_wish_you_a_great_summer._1_ikz6k7.jpg"
+      },
+      {
+        "type": "image",
+        "url": "https://res.cloudinary.com/da5bixsel/image/upload/q_auto/f_auto/v1780478039/YOUR_JUNE_AT_SILODOMwe_wish_you_a_great_summer._2_z9xdm4.jpg"
+      },
+      {
+        "type": "image",
+        "url": "https://res.cloudinary.com/da5bixsel/image/upload/q_auto/f_auto/v1780478036/YOUR_JUNE_AT_SILODOMwe_wish_you_a_great_summer._3_v1rupb.jpg"
+      },
+      {
+        "type": "image",
+        "url": "https://res.cloudinary.com/da5bixsel/image/upload/q_auto/f_auto/v1780478037/YOUR_JUNE_AT_SILODOMwe_wish_you_a_great_summer._4_pyjikk.jpg"
       }
     ]
   },
   {
     "id": "2",
-    "event_name": "SILODOM",
+    "event_name": "STAGETOPIA",
+    "description": "In zwei Wochen ist es endlich so weit: Bei STAGETOPIA verwandelt sich der Saarbrücker Uni-Campus in ein großes Festivalgelände mit 5 Bühnen 🔥\n\nDer Timetable ist da 🤩\nJetzt könnt ihr planen, wann ihr vor welcher Bühne stehen wollt.\n\nAuf welchen Act freut ihr euch am meisten und welche Stage wird euer Place to be?\n\nP.S.: Ab Montag gilt die nächste Preisstufe. Sichert euch eure Tickets jetzt noch für nur 32 € ermäßigt bzw. 36 € regulär 🙌",
     "slides": [
       {
-        "type": "video",
-        "url": "https://res.cloudinary.com/da5bixsel/video/upload/q_auto/f_auto/w_720/v1780258897/FinalFinalAdZerrroVeranstaltung_haaode.mp4"
+        "type": "image",
+        "url": "https://res.cloudinary.com/da5bixsel/image/upload/q_auto/f_auto/v1780477997/In_zwei_Wochen_ist_es_endlich_so_weit-_Bei_STAGETOPIA_verwandelt_sich_der_Saarbr%C3%BCcker_Uni-Campus_nlbhnc.jpg"
       }
     ]
   },
   {
     "id": "3",
-    "event_name": "SILODOM",
+    "event_name": "TANZ IN DEN FEIERTAG",
+    "description": "TANZ IN DEN FEIERTAG\n→ 3. Juni\n→ Special: KYNG ELLYS LOUNGE\n→ Support your Subculture\n→ wir freuen uns auf euch\n→ Siloliebe",
     "slides": [
       {
         "type": "video",
-        "url": "https://res.cloudinary.com/da5bixsel/video/upload/q_auto/f_auto/w_720/v1780258883/DnBVeranstlatung_siwqln.mp4"
+        "url": "https://res.cloudinary.com/da5bixsel/video/upload/q_auto/f_auto/w_720/v1780478281/TANZ_IN_DEN_FEIERTAG-_3._Juni_-_Special-_KYNG_ELLYS_LOUNGE-_Support_your_Subculture-_wir_freuen_ybbbwl.mp4"
       }
     ]
   },
   {
     "id": "4",
-    "event_name": "SILODOM",
+    "event_name": "ZERRRO 2.0",
+    "description": "TECH HOUSE: WHERE TECHNO MEETS HOUSE\n\nDriving grooves, powerful basslines inspired by Techno & vocals, hooks and melodies inspired by House\n\nWe want to share our passion for this genre with you and show you why Tech House is taking over dance floors around the world.\n\nEntry is only €5 before 00:00.\n\nLine-up\nPuff/Outdoor: ZERRRO Showcase\nTech House All Night Long\nw/ @flo.von, @timklein_ & @maxmetzinger\n\nKeller:\nTechno All Night Long\nw/ @empiric_mind_, @gelato.bleu, @ra_ph_t_sar & @sonova.ss\n\nDoors: TBA",
+    "slides": [
+      {
+        "type": "video",
+        "url": "https://res.cloudinary.com/da5bixsel/video/upload/q_auto/f_auto/w_720/v1780478059/TECH_HOUSE-_WHERE_TECHNO_MEETS_HOUSEDriving_grooves_powerful_basslines_inspired_by_Techno_voc_vzdeij.mp4"
+      }
+    ]
+  },
+  {
+    "id": "5",
+    "event_name": "RINGELKIEZ",
+    "description": "Das Wetter ist noch etwas wacklig, aber wir machen uns bereit!\nUnd ihr macht euch bereit!\n\n👉 Ringelkiez + Feiertag = ☀️💥⚡️🪩💦⭐️\n\nRingelkiez\n☀️ Mittwoch\n✨ 02.06.26\n🥂 Ab 17 Uhr\n🍹 Unverpassbar.\n🚀 + Aftershow",
     "slides": [
       {
         "type": "image",
-        "url": "https://res.cloudinary.com/da5bixsel/image/upload/q_auto/f_auto/v1780308193/IMG_1970_qmp8p0.jpg"
-      },
-      {
-        "type": "image",
-        "url": "https://res.cloudinary.com/da5bixsel/image/upload/q_auto/f_auto/v1780308191/IMG_1972_kismx4.jpg"
-      },
-      {
-        "type": "image",
-        "url": "https://res.cloudinary.com/da5bixsel/image/upload/q_auto/f_auto/v1780308191/IMG_1971_xvkyme.jpg"
-      },
-      {
-        "type": "image",
-        "url": "https://res.cloudinary.com/da5bixsel/image/upload/q_auto/f_auto/v1780308191/IMG_1974_b9rnzq.jpg"
-      },
-      {
-        "type": "image",
-        "url": "https://res.cloudinary.com/da5bixsel/image/upload/q_auto/f_auto/v1780308189/IMG_1975_ac5uaz.jpg"
+        "url": "https://res.cloudinary.com/da5bixsel/image/upload/q_auto/f_auto/v1780478022/ringel_vlnpmo.jpg"
       }
     ]
   }
